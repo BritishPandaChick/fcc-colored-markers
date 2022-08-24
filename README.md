@@ -12,3 +12,4 @@ Clone this repo or download the zip file. Open the index.html file in the browse
 This project is based on code from freeCodeCamp. Therefore I will not be accepting any pull requests.
 
 ## Acknowledgements
+* freeCodeCamp
